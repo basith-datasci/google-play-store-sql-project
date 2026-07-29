@@ -247,16 +247,21 @@ Some of the key findings from this analysis include:
 Below are screenshots demonstrating different stages of the project.
 
 ### Data Cleaning
-> *(Insert screenshot here)*
+> *(<img width="1536" height="1024" alt="02_data_cleaning png" src="https://github.com/user-attachments/assets/fd85a754-26af-4b6a-931e-32e5d584a11b" />
+
+)*
 
 ### Exploratory Data Analysis (EDA)
-> *(Insert screenshot here)*
+> *(<img width="771" height="1024" alt="03_E_D_A png" src="https://github.com/user-attachments/assets/60fe0120-ce18-447b-b01a-e046ef32a149" />
+)*
 
 ### Advanced SQL
-> *(Insert screenshot here)*
+> *(<img width="755" height="1024" alt="04_avance_png" src="https://github.com/user-attachments/assets/0a7c6eda-5015-4ecf-b6a1-e7541afcc98c" />
+)*
 
 ### Business Analysis
-> *(Insert screenshot here)*
+> *(<img width="1536" height="1024" alt="05_data_analysis_insights png" src="https://github.com/user-attachments/assets/2606cae0-0679-46bc-8edf-086e01708f1a" />
+)*
 
 ---
 
@@ -277,7 +282,7 @@ Some enhancements that can be added in future versions of this project:
 
 **Mohammed Basith**
 
-I'm a BBA student with a strong interest in **Data Analytics** and **SAP FICO (S/4HANA)**. I enjoy solving business problems using data and continuously improving my analytical and technical skills through hands-on projects.
+I'm a BBA graduate with a strong interest in **Data Analytics** and **SAP FICO (S/4HANA)**. I enjoy solving business problems using data and continuously improving my analytical and technical skills through hands-on projects.
 
 ### Connect with Me
 
