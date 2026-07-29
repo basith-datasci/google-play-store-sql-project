@@ -246,20 +246,39 @@ Some of the key findings from this analysis include:
 
 Below are screenshots demonstrating different stages of the project.
 
+### 🔍 Data Profiling
+
+Verified the dataset contains **10,841 rows** and **13 columns** before analysis.
+
+![Data Profiling](<img width="1536" height="1024" alt="01_data_profiling png" src="https://github.com/user-attachments/assets/d710791e-9b73-46ca-a958-a09c707e7e58" />
+)
+
 ### Data Cleaning
+
+Prepared the dataset by removing duplicates, handling missing values, and correcting data types.
+
 > *(<img width="1536" height="1024" alt="02_data_cleaning png" src="https://github.com/user-attachments/assets/fd85a754-26af-4b6a-931e-32e5d584a11b" />
 
 )*
 
 ### Exploratory Data Analysis (EDA)
+
+Analyzed app categories, ratings, installs, and pricing patterns.
+
 > *(<img width="771" height="1024" alt="03_E_D_A png" src="https://github.com/user-attachments/assets/60fe0120-ce18-447b-b01a-e046ef32a149" />
 )*
 
 ### Advanced SQL
+
+Implemented Window Functions, CTEs, ranking functions, and analytical SQL techniques.
+
 > *(<img width="755" height="1024" alt="04_avance_png" src="https://github.com/user-attachments/assets/0a7c6eda-5015-4ecf-b6a1-e7541afcc98c" />
 )*
 
-### Business Analysis
+### Business Analysis & Insights
+
+Generated business recommendations by identifying market opportunities and high-performing app categories.
+
 > *(<img width="1536" height="1024" alt="05_data_analysis_insights png" src="https://github.com/user-attachments/assets/2606cae0-0679-46bc-8edf-086e01708f1a" />
 )*
 
@@ -297,59 +316,6 @@ If you found this project interesting, consider giving it a ⭐ on GitHub.
 
 Thank you for visiting my project!
 
-
-
-
-
-## 📸 Project Screenshots
-
-### 📂 Project Structure
-
-Organized project files for easy navigation and reproducibility.
-
-![Project Structure](screenshots/project_structure.png)
-
----
-
-### 🔍 Data Profiling
-
-Verified the dataset contains **10,841 rows** and **13 columns** before analysis.
-
-![Data Profiling](screenshots/data_profiling.png)
-
----
-
-### 🧹 Data Cleaning
-
-Prepared the dataset by removing duplicates, handling missing values, and correcting data types.
-
-![Data Cleaning](screenshots/data_cleaning.png)
-
----
-
-### 📊 Exploratory Data Analysis
-
-Analyzed app categories, ratings, installs, and pricing patterns.
-
-![EDA](screenshots/eda.png)
-
----
-
-### ⚡ Advanced SQL
-
-Implemented Window Functions, CTEs, ranking functions, and analytical SQL techniques.
-
-![Advanced SQL](screenshots/advanced_sql.png)
-
----
-
-### 💼 Business Insights
-
-Generated business recommendations by identifying market opportunities and high-performing app categories.
-
-![Business Analysis](screenshots/business_analysis.png)
-
----
 
 ### 📈 Dashboard
 
