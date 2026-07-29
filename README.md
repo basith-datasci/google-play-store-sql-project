@@ -305,7 +305,7 @@ I'm a BBA graduate with a strong interest in **Data Analytics** and **SAP FICO (
 
 ### Connect with Me
 
-- **GitHub:** *(https://github.com/basith-datasci/data-analytics-portfolio)*
+- **GitHub:** *(https://github.com/basith-datasci/google-play-store-sql-project/tree/main)*
 - **LinkedIn:** *(linkedin.com/in/mohammedbasith)*
 
 ---
