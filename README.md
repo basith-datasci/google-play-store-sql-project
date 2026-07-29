@@ -250,8 +250,8 @@ Below are screenshots demonstrating different stages of the project.
 
 Verified the dataset contains **10,841 rows** and **13 columns** before analysis.
 
-![Data Profiling](<img width="1536" height="1024" alt="01_data_profiling png" src="https://github.com/user-attachments/assets/d710791e-9b73-46ca-a958-a09c707e7e58" />
-)
+> *(<img width="1536" height="1024" alt="01_data_profiling png" src="https://github.com/user-attachments/assets/d710791e-9b73-46ca-a958-a09c707e7e58" />
+)*
 
 ### Data Cleaning
 
